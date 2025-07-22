@@ -1,0 +1,11 @@
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Domain\bin\Debug\net9.0\Edicao-De-Premio.Domain.deps.json
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Domain\bin\Debug\net9.0\Edicao-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Domain\bin\Debug\net9.0\Edicao-De-Premio.Domain.pdb
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Domain\obj\Debug\net9.0\Edicao-De-Premio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Domain\obj\Debug\net9.0\Edicao-De-Premio.Domain.AssemblyInfoInputs.cache
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Domain\obj\Debug\net9.0\Edicao-De-Premio.Domain.AssemblyInfo.cs
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Domain\obj\Debug\net9.0\Edicao-De-Premio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Domain\obj\Debug\net9.0\Edicao-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Domain\obj\Debug\net9.0\refint\Edicao-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Domain\obj\Debug\net9.0\Edicao-De-Premio.Domain.pdb
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Domain\obj\Debug\net9.0\ref\Edicao-De-Premio.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\bin\Debug\net9.0\Edicao-De-Premio.Application.deps.json
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\bin\Debug\net9.0\Edicao-De-Premio.Application.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\bin\Debug\net9.0\Edicao-De-Premio.Application.pdb
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\bin\Debug\net9.0\Edicao-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\bin\Debug\net9.0\Edicao-De-Premio.Infrastructure.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\bin\Debug\net9.0\Edicao-De-Premio.Domain.pdb
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\bin\Debug\net9.0\Edicao-De-Premio.Infrastructure.pdb
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\obj\Debug\net9.0\Edicao-De-Premio.Application.csproj.AssemblyReference.cache
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\obj\Debug\net9.0\Edicao-De-Premio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\obj\Debug\net9.0\Edicao-De-Premio.Application.AssemblyInfoInputs.cache
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\obj\Debug\net9.0\Edicao-De-Premio.Application.AssemblyInfo.cs
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\obj\Debug\net9.0\Edicao-De-Premio.Application.csproj.CoreCompileInputs.cache
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\obj\Debug\net9.0\Edicao-D.15F8D6CB.Up2Date
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\obj\Debug\net9.0\Edicao-De-Premio.Application.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\obj\Debug\net9.0\refint\Edicao-De-Premio.Application.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\obj\Debug\net9.0\Edicao-De-Premio.Application.pdb
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Application\obj\Debug\net9.0\ref\Edicao-De-Premio.Application.dll

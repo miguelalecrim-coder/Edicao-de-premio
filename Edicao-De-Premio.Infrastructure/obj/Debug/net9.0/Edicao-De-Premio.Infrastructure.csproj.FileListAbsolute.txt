@@ -1,0 +1,17 @@
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\obj\Debug\net9.0\Edicao-De-Premio.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\obj\Debug\net9.0\Edicao-De-Premio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\obj\Debug\net9.0\Edicao-De-Premio.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\obj\Debug\net9.0\Edicao-De-Premio.Infrastructure.AssemblyInfo.cs
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\obj\Debug\net9.0\Edicao-De-Premio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\bin\Debug\net9.0\Edicao-De-Premio.Infrastructure.deps.json
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\bin\Debug\net9.0\Edicao-De-Premio.Infrastructure.runtimeconfig.json
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\bin\Debug\net9.0\Edicao-De-Premio.Infrastructure.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\bin\Debug\net9.0\Edicao-De-Premio.Infrastructure.pdb
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\bin\Debug\net9.0\Edicao-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\bin\Debug\net9.0\Edicao-De-Premio.Domain.pdb
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\obj\Debug\net9.0\Edicao-D.1CD80A47.Up2Date
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\obj\Debug\net9.0\Edicao-De-Premio.Infrastructure.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\obj\Debug\net9.0\refint\Edicao-De-Premio.Infrastructure.dll
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\obj\Debug\net9.0\Edicao-De-Premio.Infrastructure.pdb
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\obj\Debug\net9.0\Edicao-De-Premio.Infrastructure.genruntimeconfig.cache
+C:\Users\miguelalecrim\Desktop\Edicao-de-premio\Edicao-De-Premio.Infrastructure\obj\Debug\net9.0\ref\Edicao-De-Premio.Infrastructure.dll

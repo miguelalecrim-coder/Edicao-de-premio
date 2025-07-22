@@ -1,0 +1,6 @@
+@Edicao_De_Premio.WebAPI_HostAddress = http://localhost:5200
+
+GET {{Edicao_De_Premio.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
